@@ -1,3 +1,8 @@
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Dev%20Oops%20&desc=%20Today%20I%20don't%20feel%20like%20doing%20anything&fontSize=40&animation=twinkling&descAlignY=80)
+
+Today I don't feel like doing anything
+
+
 - 👋 Hi, I’m @Dev-0ops
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
