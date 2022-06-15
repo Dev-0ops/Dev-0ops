@@ -1,14 +1,26 @@
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Dev%20Oops%20&desc=%20Today%20I%20don't%20feel%20like%20doing%20anything&fontSize=40&animation=twinkling&descAlignY=80)
 -----
-### :bulb:데브웁스 (DevOops)란 무엇입니까?
-'운영에 개발까지 하려니 할게 너무 많아 토 나올 정도'라는 뜻 입니다. 
+#### :bulb:데브웁스 (DevOops)란 무엇입니까?<br>
+#####  :astonished: 'Oops' 란 우리말로  _'이크,이런, 아이고, 에구머니, 저런, 야단났군, 미안, 아이구, 저런저런, 어렵쇼, 아뿔사, 아차, 실례, 앗!, 아차!'_ 등 당황스럽거나 작은 실수, 사고를 당할 뻔할 때를 의미하는데, 그런일이 일상다반사인 Cloud Engineer입니다.
 
+######  세상은 넓고 할 것도 너무 너무 너무  많다.
 
-- 👋 Hi, I’m @Dev-0ops
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Introduce
+-----
+👋 *안녕하세요. 1년차 Cloud Engineer 윤찬우입니다.*
+
+#### **'천 리 길도 한 걸음 부터... 최소 한 달에 한 번씩은 커밋 하기로 했습니다.**
+- :cloud: AWS, GCP를 주로 다루고 있습니다.  
+- Monitoring과 CI/CD, IaC와 같이 운영에 필요한 부분에 대한 개발 지식을 쌓고 있습니다.
+- 개인적으로 Machine Learning을 공부 중입니다.
+
+Links
+---
+- E-mail - cksdn908@gmail.com
+- Blog - 개설중
+- Github - https://github.com/Dev-0ops
+---
+
 
 
 <h3 align="center"> :crystal_ball: Tech Stack  :crystal_ball:</h3>
