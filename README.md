@@ -1,7 +1,7 @@
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Dev%20Oops%20&desc=%20Today%20I%20don't%20feel%20like%20doing%20anything&fontSize=40&animation=twinkling&descAlignY=80)
 -----
 #### :bulb:데브웁스 (DevOops)란 무엇입니까?<br>
-#####  :astonished: 'Oops' 란 우리말로  _'이크,이런, 아이고, 에구머니, 저런, 야단났군, 미안, 아이구, 저런저런, 어렵쇼, 아뿔사, 아차, 실례, 앗!, 아차!'_ 등 당황스럽거나 작은 실수, 사고를 당할 뻔할 때를 의미하는데, 그런일이 일상다반사인 Cloud Engineer입니다.
+#####  :astonished: 데브옵스라 하기엔 아직 'Oops'인 Cloud Engineer입니다.
 
 ######  세상은 넓고 할 것도 너무 너무 너무  많다.
 
